@@ -37,5 +37,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
  
+### Con más práctica:
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinon0&theme=dark">
+</div>
  
