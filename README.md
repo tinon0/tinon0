@@ -19,7 +19,7 @@
 
 ### Sobre mi 👨🏻‍💻
 
- 📚 Soy un estudiante avanzado de la Tecnicatura Universitaria en Programación de la UTN. 
+ 📚 Estoy terminando la Tecnicatura Universitaria en Programación de la UTN. 
  
  🚀 Acá compartiré proyectos personales y lo que voy aprendiendo a lo largo del camino 💻
 
@@ -35,6 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" heigth="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" heigth="40">
 </div>
  
 ### Con más práctica:
