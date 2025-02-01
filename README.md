@@ -23,7 +23,7 @@
  
  🚀 Acá compartiré proyectos personales y lo que voy aprendiendo a lo largo del camino 💻
 
- ### Lenguajes y Tecnologias que domino 💻
+ ### Lenguajes y Tecnologias que estudio 💻
 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
