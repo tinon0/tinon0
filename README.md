@@ -19,7 +19,7 @@
 
 ### Sobre mi 👨🏻‍💻
 
- 📚 Estoy terminando la Tecnicatura Universitaria en Programación de la UTN. 
+ 📚 Ya soy Técnico Universitario en Programación de la UTN! 
  
  🚀 Acá compartiré proyectos personales y lo que voy aprendiendo a lo largo del camino 💻
 
